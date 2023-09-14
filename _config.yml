@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng-Chieh (Jeremy) Lee"
+title                    : "Jeremy Lee's Homepage"
 title_separator          : "-"
-name                     : &name "Jeremy Lee's Homepage"
+name                     : &name "Meng-Chieh (Jeremy) Lee"
 description              : &description "personal description"
 url                      : https://mengchillee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
