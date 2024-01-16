@@ -16,4 +16,4 @@ Please see more in my [CV](https://mengchillee.github.io/files/CV.pdf).
 
 ---
 News:
-- Our paper "NetInfoF Framework: Measuring and Exploiting Network Usable Information" has been accepted for spotlight presentation at ICLR 2024!
+- Our paper has been accepted for spotlight presentation at ICLR 2024!
