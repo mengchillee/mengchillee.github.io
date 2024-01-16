@@ -15,5 +15,5 @@ I am interested in solving real-world applications, and have been working on sev
 Please see more in my [CV](https://mengchillee.github.io/files/CV.pdf).
 
 ---
-News:
+**News:**
 - Our paper has been accepted for spotlight presentation at ICLR 2024!
