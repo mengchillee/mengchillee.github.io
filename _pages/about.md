@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Meng-Chieh (Jeremy) Lee"
 author_profile: true
 redirect_from: 
   - /about/
