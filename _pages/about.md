@@ -15,7 +15,7 @@ Please see more in my [CV](https://mengchillee.github.io/files/CV.pdf).
 
 ---
 **News:**
-- (12/20/2024) Our paper "[_Self-tuning Self-supervised Time Series Anomaly Detection_](https://arxiv.org/abs/2404.02865)" has been accepted at SDM 2025!
+- (12/20/2024) Our paper "[_End-To-End Self-Tuning Self-Supervised Time Series Anomaly Detection_](https://arxiv.org/abs/2404.02865)" has been accepted at SDM 2025!
 - (01/27/2024) Our papers "[_NetEffect: Discovery and Exploitation of Generalized Network Effects_](https://arxiv.org/abs/2301.00270)" and "[_DiffFind: Discovering Differential Equations from Time Series_](https://link.springer.com/chapter/10.1007/978-981-97-2266-2_14)" have been accepted at PAKDD 2024!
 - (01/23/2024) Our paper "[_Descriptive Kernel Convolution Network with Improved Random Walk Kernel_](https://arxiv.org/abs/2402.06087)" has been accepted at WWW 2024!
 - (01/16/2024) Our paper "[_NetInfoF Framework: Measuring and Exploiting Network Usable Information_](https://arxiv.org/abs/2402.07999)" has been accepted for <ins>spotlight</ins> presentation at ICLR 2024! The [blogpost](https://www.cs.cmu.edu/~csd-phd-blog/2024/network-usable-information/) can be found here!
