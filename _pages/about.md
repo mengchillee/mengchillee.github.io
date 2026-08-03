@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Applied Scientist at Amazon Web Services (AWS).
 I received my Ph.D. in Computer Science from Carnegie Mellon University, advised by Professor [Christos Faloutsos](https://www.cs.cmu.edu/~christos/).
-My research interests include graph mining, data mining and anomaly detection.
+My current research interests include self-evolving agents, multi-agent orchestration, and retrieval-augmented generation.
 Please see more in my [CV](https://mengchillee.github.io/files/CV.pdf).
 
 ---
